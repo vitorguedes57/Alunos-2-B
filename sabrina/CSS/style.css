@@ -12,15 +12,16 @@ body {
     align-items: center;
     background-color: white;
 }
-container{
+.container{
     width: 80;
     height: 80;
     display: flex; 
     box-shadow: 5px 5px 10px black;
 }
-form-image{
+.form-image{
     width: 80;
     height: 80;
     display: flex;
     box-shadow: 5px 5px 10px rgb(172, 105, 18);
+
 }
